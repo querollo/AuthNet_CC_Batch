@@ -180,8 +180,4 @@ echo %AUTHNET_LOGIN_ID%       # Windows
 - Check your internet connection
 - Verify Authorize.Net API is responding normally
 
-### Script Crashes Mid-Scan
 
-**Problem**: Script stops unexpectedly
-
-**Solution
